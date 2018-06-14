@@ -1,0 +1,23 @@
+{
+  "name": "bootstrap-grid-demo-on-react-using-reactstrap",
+  "version": "1.0.0",
+  "description":
+    "Reactstrap is a popular library for using Bootstrap components with React. This example demonstrates Bootstrap grid system with React",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/new",
+  "main": "src/index.js",
+  "dependencies": {
+    "bootstrap": "4.0.0",
+    "react": "16.2.0",
+    "react-dom": "16.2.0",
+    "react-scripts": "1.1.0",
+    "reactstrap": "5.0.0-beta"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
